@@ -151,8 +151,8 @@ To Deactivate type the following command in the same previous path:
 
 ![conner](https://user-images.githubusercontent.com/63375443/124137788-aeee5c00-da8e-11eb-8389-529bb9655462.jpg)
 
+# Video of Detroit Trailer Face Recognition test
 
-**^^Please check the screen recording of TESTING the project if it can define 'Conner' from other characters in the images and trailer video is in the attached files in this REPOSITORY^^**
-
+**^^Please check the attached FILES in this REPOSITORY^^**
 
 Thanks for reading:)
