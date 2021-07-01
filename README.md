@@ -143,8 +143,12 @@ To Deactivate type in the same previous path:
     
 18- Run Python file in terminal, To exit the camera (stop run) just type "q" 
 
-This is the reference picture of Conner I used:
+**This is the reference picture of Conner I used for this project:**
 
 ![conner](https://user-images.githubusercontent.com/63375443/124137788-aeee5c00-da8e-11eb-8389-529bb9655462.jpg)
+
+
+**^^Please check the screen recording of TESTING the project if it can define 'Conner' from other characters in the images and trailer video is in the attached files in this REPOSITORY^^**
+
 
 Thank you for reading!
