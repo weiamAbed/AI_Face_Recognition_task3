@@ -1,9 +1,11 @@
 # AI_Face_Recognition_task3
 This repository is for task (3) of the AI track of my summer training at Smart-Methods
 
-**Note:
-This is a collaborated work with Maryam Alabdulhadi
-Please check the Attached files, Pictures, Video**
+**Note:**
+
+**This is a collaborated work with Maryam Alabdulhadi**
+
+**Please check the Attached files, Pictures, Video**
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -19,13 +21,13 @@ To check python version in CMD type:
 
 3- Downloaded Visual Studio Code by following the simple installation steps.
 
-4- from Face Recognition official website and copied the following code (source method):
+4- From Face Recognition official website and copied the following code (source method):
 
     git clone git://github.com/ageitgey/face_recognition
 
 5- After that, I created a directory on my desktop called "facerecog".
 
-6- through the terminal, I entered the directory path and cloned the previous source method code.
+6- Through the terminal, I entered the directory path and cloned the previous source method code.
 
 7- Unfortunately, I faced the following error " git: the term 'git' is not recognized.." and fixed it by downloading GIT from the official website.
 And to check the error has was successfuly solved type 'git' in a new PowerShell and I noticed the error was successfully solved.
@@ -34,7 +36,7 @@ And to check the error has was successfuly solved type 'git' in a new PowerShell
 
     pip install virtualenv
  
-9- after I entered this code:
+9- After I entered this code:
 
     virtualenv weiamenv
 
@@ -51,7 +53,7 @@ First, Right-click on Windows Power Shell Select "Run as administrator"
     Y
     Set-ExecutionPolicy Unrestricted -Force
 
-12- inside the python virtual environment I ran:
+12- Inside the python virtual environment I ran:
 
     pip install cmake
 
@@ -77,9 +79,9 @@ First, Right-click on Windows Power Shell Select "Run as administrator"
 
     import cv2
 
-Note: To activate/deactivate the virtual environment follow the steps:
+**Note: To activate/deactivate the virtual environment follow the steps:**
 
-In CMD in the path of your project folder enter this code to Activate:
+**In CMD in the path of your project folder enter this code to Activate:**
 
     env\Scripts\activate.bat
 
@@ -141,4 +143,4 @@ To Deactivate type in the same previous path:
     
 18- Run Python file in terminal, To exit the camera (stop run) just type "q" 
 
-Thank you for reading :)!
+Thank you for reading!
