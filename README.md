@@ -11,6 +11,8 @@ Thank You!
 
 On this task, we worked on real-time face recognition using python, visual studio code, OpenCV, Python Virtual Environment, and more on my OS Windows 10.
 
+# Steps
+
 1- I Installed Python 3.9.6 through their main website and I checked the box "Add Python 3.9 to path" then started the installation.
 
 To check python version in CMD type: 
@@ -142,6 +144,8 @@ To Deactivate type the following command in the same previous path:
     
     
 18- Run Python file in terminal, To exit the camera (stop run) just type "q" 
+
+# Conner Reference picture
 
 **This is the reference picture of Conner I used for this project:**
 
