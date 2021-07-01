@@ -1,11 +1,11 @@
 # AI_Face_Recognition_task3
 This repository is for task (3) of the AI track of my summer training at Smart-Methods
 
-**Note:**
+**Note: This is a collaborated work with Maryam Alabdulhadi**
 
-**This is a collaborated work with Maryam Alabdulhadi**
+Kindly, see the attached files to see all of the details such as testing pics used, video, and more.
 
-**Please check the Attached files, Pictures, Video**
+Thank You!
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -151,4 +151,4 @@ To Deactivate type in the same previous path:
 **^^Please check the screen recording of TESTING the project if it can define 'Conner' from other characters in the images and trailer video is in the attached files in this REPOSITORY^^**
 
 
-Thank you for reading!
+Thanks for reading:)
