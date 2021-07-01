@@ -81,11 +81,11 @@ First, Right-click on Windows Power Shell Select "Run as administrator"
 
 **Note: To activate/deactivate the virtual environment follow the steps:**
 
-**In CMD in the path of your project folder enter this code to Activate:**
+In CMD in the path of your project folder enter this code to Activate:
 
     env\Scripts\activate.bat
 
-To Deactivate type in the same previous path:
+To Deactivate type the following command in the same previous path:
 
     deactivate
 
