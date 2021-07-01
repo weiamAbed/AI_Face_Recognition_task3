@@ -1,10 +1,9 @@
 # AI_Face_Recognition_task3
 This repository is for task (3) of the AI track of my summer training at Smart-Methods
 
-
-Note:
-This is a collaborated work with Weiam Abed
-Please check the Attached files, Pictures, Video
+**Note:
+This is a collaborated work with Maryam Alabdulhadi
+Please check the Attached files, Pictures, Video**
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -12,19 +11,24 @@ On this task, we worked on real-time face recognition using python, visual studi
 
 1- I Installed Python 3.9.6 through their main website and I checked the box "Add Python 3.9 to path" then started the installation.
 
-2- I downloaded Visual Studio (The community edition and check Python Development package, Node.JS, Desktop web c++)
+To check python version in CMD type: 
 
-3- Downloaded Visual Studio Code by following the simple installation steps
+      python --version
+
+2- I downloaded Visual Studio (The community edition and check Python Development package, Node.JS, Desktop web c++).
+
+3- Downloaded Visual Studio Code by following the simple installation steps.
 
 4- from Face Recognition official website and copied the following code (source method):
 
     git clone git://github.com/ageitgey/face_recognition
 
-5- After that, I created a directory on my desktop called "facerecog"
+5- After that, I created a directory on my desktop called "facerecog".
 
 6- through the terminal, I entered the directory path and cloned the previous source method code.
 
-7- Unfortunately, I faced the following error " git: the term 'git' is not recognized.." and fixed it by downloading GIT from the official website and to check the error has disappeared type 'git' in a new PowerShell and I noticed the error was successfully solved.
+7- Unfortunately, I faced the following error " git: the term 'git' is not recognized.." and fixed it by downloading GIT from the official website.
+And to check the error has was successfuly solved type 'git' in a new PowerShell and I noticed the error was successfully solved.
 
 8- In the same directory path I executed the following which took a lot of time to download the packages:
 
@@ -32,7 +36,7 @@ On this task, we worked on real-time face recognition using python, visual studi
  
 9- after I entered this code:
 
-    virtualenv maryamenv
+    virtualenv weiamenv
 
 10- I entered the path of the newly created environment and entered the Scripts path to run the following in order to activate the environment:
 
